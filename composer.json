@@ -1,5 +1,5 @@
 {
-    "name": "basant292/module-add-catalog",
+    "name": "basant292/add-catalog",
     "description": "This is a module to test the catalog",
     "type": "magento2-module",
     "require": {
@@ -20,7 +20,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "K2\\SampleModule\\": ""
+            "basant292\\addcatalog\\": ""
         }
     }
 }
