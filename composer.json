@@ -1,6 +1,6 @@
 {
-    "name": "basant292/module-samplemodule",
-    "description": "This is a sample module",
+    "name": "basant292/module-add-catalog",
+    "description": "This is a module to test the catalog",
     "type": "magento2-module",
     "license": "MIT",
     "authors": [
