@@ -2,11 +2,16 @@
     "name": "basant292/module-add-catalog",
     "description": "This is a module to test the catalog",
     "type": "magento2-module",
-    "license": "MIT",
+    "require": {
+        "php": "~7.3.0||~7.4.0"
+      },
+  "version": "1.0.0",
+  "license": [
+    "MIT"
+  ],
     "authors": [
         {
-            "name": "Mage2Gen",
-            "email": "info@mage2gen.com"
+            "name": "Basant292",
         }
     ],
     "minimum-stability": "dev",
